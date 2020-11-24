@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W11847
   title: ཚད་མའི་བསྟན་བཅོས་སྡེ་བདུན་རྒྱན་གྱི་མེ་ཏོག
-  volume: ''
+  volume:
+    c0f4fa1066464261adbdb30e346d0b17:
+      image_group_id: I1PD36355
+      title: Volume 1 of tshad ma'i bstan bcos sde bdun rgyan gyi me tog
+      volume_number: 1
+      total_pages: 532
   author: ''
+ebook_metadata:
+  title: ཚད་མའི་བསྟན་བཅོས་སྡེ་བདུན་རྒྱན་གྱི་མེ་ཏོག
+  author: ''
+  sku: P008018
+  cover: cover.jpg
+  layers:
+  - pagination
